@@ -5,4 +5,5 @@ ami branching somporke kichu ekta add korlam
 Bug fixing.
 
 Some new things were added.
+New bug issue is fixed.
 
